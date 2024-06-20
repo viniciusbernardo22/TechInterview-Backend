@@ -13,13 +13,14 @@ namespace Back.Interview.Controllers
         public InterviewController(ILogger<InterviewController> logger, IDataInterviewRepository dataInterviewRepository)
         {
             _logger = logger;
+            _dataInterviewRepository = dataInterviewRepository;
         }
 
         [HttpGet(Name = "GetInterview")]
-        public IActionResult GetInterviewAsync()
+        public async Task<IActionResult> GetInterviewAsync()
         {
             _logger.LogInformation("Chegamos na controller e estamos no metodo GetInterviewAsync");
-            var data = _dataInterviewRepository.GetDataAsync();
+            var data = await _dataInterviewRepository.GetDataAsync();
             return Ok(data);
         }
     }

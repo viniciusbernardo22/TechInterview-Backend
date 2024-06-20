@@ -14,15 +14,12 @@ namespace Back.Interview.Tests
         {
             builder.ConfigureServices(services =>
             {
-                // Remova o repositório existente
                 var descriptor = services.SingleOrDefault(
                     d => d.ServiceType == typeof(IDataInterviewRepository));
                 if (descriptor != null)
                 {
                     services.Remove(descriptor);
                 }
-
-                // Adicione um repositório mockado
                 services.AddScoped<IDataInterviewRepository, DataInterviewRepository>();
             });
         }

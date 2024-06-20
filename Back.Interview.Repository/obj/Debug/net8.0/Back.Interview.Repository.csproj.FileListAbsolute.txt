@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\bin\Debug\net8.0\Back.Interview.Repository.deps.json
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\bin\Debug\net8.0\Back.Interview.Repository.dll
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\bin\Debug\net8.0\Back.Interview.Repository.pdb
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\bin\Debug\net8.0\Back.Interview.Domain.dll
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\bin\Debug\net8.0\Back.Interview.Domain.pdb
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\Back.Interview.Repository.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\Back.Interview.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\Back.Interview.Repository.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\Back.Interview.Repository.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\Back.Interview.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\Back.Interview.Repository.sourcelink.json
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\Back.Interview.Repository.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\Back.Interview.Repository.dll
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\refint\Back.Interview.Repository.dll
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\Back.Interview.Repository.pdb
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Repository\obj\Debug\net8.0\ref\Back.Interview.Repository.dll

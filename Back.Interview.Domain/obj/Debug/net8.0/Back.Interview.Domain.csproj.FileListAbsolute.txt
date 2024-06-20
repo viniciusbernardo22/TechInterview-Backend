@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\bin\Debug\net8.0\Back.Interview.Domain.deps.json
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\bin\Debug\net8.0\Back.Interview.Domain.dll
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\bin\Debug\net8.0\Back.Interview.Domain.pdb
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\obj\Debug\net8.0\Back.Interview.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\obj\Debug\net8.0\Back.Interview.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\obj\Debug\net8.0\Back.Interview.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\obj\Debug\net8.0\Back.Interview.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\obj\Debug\net8.0\Back.Interview.Domain.sourcelink.json
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\obj\Debug\net8.0\Back.Interview.Domain.dll
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\obj\Debug\net8.0\refint\Back.Interview.Domain.dll
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\obj\Debug\net8.0\Back.Interview.Domain.pdb
+C:\Users\Usuario\Desktop\ambev-tech\Back.Interview\Back.Interview.Domain\obj\Debug\net8.0\ref\Back.Interview.Domain.dll

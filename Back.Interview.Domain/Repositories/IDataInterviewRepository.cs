@@ -2,5 +2,5 @@
 
 public interface IDataInterviewRepository
 {
-     Task<string> GetDataAsync();
+    Task<string> GetDataAsync();
 }

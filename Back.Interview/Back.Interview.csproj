@@ -4,6 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <PreserveCompilationContext>true</PreserveCompilationContext>
   </PropertyGroup>
 
   <ItemGroup>
@@ -14,8 +15,6 @@
   <ItemGroup>
     <ProjectReference Include="..\Back.Interview.Domain\Back.Interview.Domain.csproj" />
     <ProjectReference Include="..\Back.Interview.Repository\Back.Interview.Repository.csproj" />
-    <ProjectReference Include="Back.Interview.Domain\Back.Interview.Domain.csproj" />
-    <ProjectReference Include="Back.Interview.Repository\Back.Interview.Repository.csproj" />
   </ItemGroup>
 
   <ItemGroup>
